@@ -80,4 +80,3 @@ colors_input.addEventListener('input',function() {
     }
     keyboard_lights.style.background = colors_input.value;
 })
-
