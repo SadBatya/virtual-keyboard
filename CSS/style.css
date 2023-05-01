@@ -11,6 +11,11 @@ body {
     transition: .2s;
 }
 
+h2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
 .container {
     display: flex;
     justify-content: center;
